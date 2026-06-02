@@ -9,9 +9,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm complete to building Ecomerc website.
-- I'm complete POS system and other system.
-- I'm testing
+- Built E-commerce websites and POS systems.
+- Passionate about building scalable web applications.
+- Currently exploring Spring Boot, Docker, and Cloud Technologies.
 
 
 ## 🧠 My Focus Areas
